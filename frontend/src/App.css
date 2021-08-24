@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  text-align: -webkit-center;
+}
+form {
+  display: grid;
+  width: 150px;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.logout-button {
+  padding: 10px;
+  width: 150px;
+}
